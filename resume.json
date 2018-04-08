@@ -1,107 +1,114 @@
 {
-  "basics": {
-    "name": "孫建宇",
-    "label": "Front-End Web Developer",
-    "picture": "",
-    "email": "good0991@gmail.com",
-    "phone": "(09) 20-777-651",
-    "website": "https://github.com/Os-carsun",
-    "summary": "目前就讀於交通大學，在資工系計算機中心服務，喜歡任何有關 JS 的技術並在交大 SQLab 從事資訊安全相關研究。",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "台北",
-      "countryCode": "",
-      "region": ""
+    "basics": {
+      "name": "Jian-Yu Sun",
+      "label": "",
+      "picture": "",
+      "email": "good0991[at]gmail[dot]com",
+      "phone": "(09)20-777-651",
+      "website": "https://jysun.tw",
+      "summary": "",
+      "location": {
+        "address": "",
+        "postalCode": "",
+        "city": "",
+        "countryCode": "",
+        "region": ""
+      },
+      "profiles": []
     },
-    "profiles": []
-  },
-  "work": [
-    {
-      "company": "交通大學計算機中心",
-      "position": "developer",
-      "website": "https://www.cs.nctu.edu.tw/cchonor/",
-      "startDate": "2015-09-01",
-      "endDate": "2017-06-01",
-      "summary": "參與 WWW 、 Linux 、 Net 組處理相關事務",
-      "highlights": [
-        "運用 React + Alt + Material-UI 開發值班系統",
-        "運用  React + Alt + Semantic UI 開發教室預借系統",
-        "運用 React + Redux + Material-UI 開發交大推甄系統教授端",
-        "運用 React + Redux + React-Foundation 開發會議系統",
-        "修改內部網頁框架 ( Webpack 設定與 Package更新 ) ",
-        "維護管理系上工作站 (Arch Linux) 與 服務",
-        "架設 ELK 集中收集機器 Log",
-        "研究並使用 slatstack 集中管理機器",
-        "略懂 cisco 2960 與 3750 的操作指令"
-      ]
-    }
-  ],
-  "volunteer": [],
-  "education": [
-    {
-      "institution": "交通大學",
-      "area": "資訊工程",
-      "studyType": "碩士",
-      "startDate": "2015-06-01",
-      "endDate": "2017-06-01",
-      "gpa": "",
-      "courses": []
-    }
-  ],
-  "awards": [
-    {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [],
-  "skills": [
-    {
-      "name": "Web Development",
-      "level": "",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript (ES6)",
-        "React",
-        "webpack",
-        "Redux",
-        "Babel"
-      ]
-    },
-    {
-      "name": "Backend Development",
-      "level": "",
-      "keywords": [
-        "Nodejs",
-        "Go",
-        "Python"
-      ]
-    },
-    {
-      "name": "System",
-      "level": "",
-      "keywords": [
-        "Arch Linux"
-      ]
-    },
-    {
-      "name": "Other",
-      "level": "",
-      "keywords": [
-        "Bash",
-        "Git",
-        "C (99)",
-        "C++ (11)",
-        "Java (7,8)",
-        "fuzzing test"
-      ]
-    }
-  ],
-  "languages": [],
-  "interests": [],
-  "references": []
-}
+    "work": [
+      {
+        "company": "Deansoft",
+        "position": "Intern",
+        "website": "",
+        "startDate": "2013-01",
+        "endDate": "2013-05",
+        "summary": "Use Qt and FFmpeg to create a video camera live streaming decoder. The maximum of resolution 1080p foreach 4 camera the same time.",
+        "highlights": []
+      },
+      {
+        "company": "National Chiao Tung University Computer Center",
+        "position": "Develop",
+        "website": "",
+        "startDate": "2015-07",
+        "endDate": "2017-06",
+        "summary": "Taking part In WWW, Linux and Network team. Maintain Arch server and Switch in ComputerCenter.  Project:",
+        "highlights": [
+          "Duty system",
+          "Room Booking system",
+          "Chiao Tung Recommend System",
+          "Meeting System",
+          "ELK Central Control Log System",
+          "SaltStack Central Control System"
+        ]
+      },
+      {
+        "company": "Trendmirco",
+        "position": "QA",
+        "website": "",
+        "startDate": "2017-06",
+        "endDate": "Present",
+        "summary": "In Endpoint sensor team of commercial-foundation",
+        "highlights": [
+          "build team loacl jenkins server",
+          "write BDD automation framework (base on robotframework)",
+          "manage local ESXI for test enviorment",
+          "Import github flow in repo"
+        ]
+      }
+    ],
+    "volunteer": [],
+    "education": [
+      {
+        "institution": "National Chiao Tung University",
+        "area": "Computer Science",
+        "studyType": "Master",
+        "startDate": "2015-06-01",
+        "endDate": "2017-06-22",
+        "gpa": "",
+        "courses": [
+          "Software Quality Lab"
+        ]
+      }
+    ],
+    "awards": [
+      {
+        "title": "ACM-NCPU",
+        "date": "2014",
+        "awarder": "3rd place",
+        "summary": ""
+      },
+      {
+        "title": "Golden Shield",
+        "date": "2015 & 2016",
+        "awarder": "Finalist",
+        "summary": ""
+      }
+    ],
+    "publications": [],
+    "skills": [
+      {
+        "name": "",
+        "level": "",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "ELK",
+          "Python",
+          "Jenkins",
+          "ESXI",
+          "C\\C++",
+          "JAVA",
+          "ArchLinux",
+          "git/gitflow",
+          "docker",
+          "Bash",
+          "fuzzing test"
+        ]
+      }
+    ],
+    "languages": [],
+    "interests": [],
+    "references": []
+  }
